@@ -6,11 +6,11 @@
 Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo todas as tecnologias, informações e passo a passo necessários.
 
 
-1- [x] Tecnologias Utilizadas
-2- [x] Projetos de Automação
-3- [x] Instalações
-4- [x] Permissões de Acesso
-5- [x] Informações Úteis
+- [x] 1.Tecnologias Utilizadas
+- [x] 2.Projetos de Automação
+- [x] 3.Instalações
+- [x] 4.Permissões de Acesso
+- [x] 5.Informações Úteis
 
 
 
