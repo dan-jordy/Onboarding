@@ -35,7 +35,9 @@ Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo to
 
 -[Maven](https://maven.apache.org/download.cgi)
 
--[IntelliJ IDE -> BACK](https://www.jetbrains.com/idea/download/other.html)
+-[IntelliJ IDE - > BACK (https://www.jetbrains.com/idea/download/other.html)
+
+
 ---------------------------------------------------------------------
 <h4>2</h4> <b>Projetos de Automação</b>		
 
