@@ -4,13 +4,21 @@
 
 
 -[VSCode IDE -> FRONT](https://code.visualstudio.com/Download)			
+
 -[Node.JS](https://nodejs.org/pt-br/download/)
+
 -[Cypress](Instalar a partir do Node.JS através do terminal, instalar as dependências "npm install")
+
 -[Git](git-scm.com)
+
 -[Discord](Solicitar link para acessar grupo BBCE)			
+
 -[Postman](https://www.postman.com/downloads/)		
--[Azure DevOps](https://bbce0256.visualstudio.com/)				
+
+-[Azure DevOps](https://bbce0256.visualstudio.com/)	
+
 -[Maven](https://maven.apache.org/download.cgi)
+
 -[IntelliJ IDE -> BACK](https://www.jetbrains.com/idea/download/other.html)
 
 #####Projetos de Automação		
