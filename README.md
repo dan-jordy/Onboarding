@@ -39,8 +39,9 @@ Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo to
 
 <b>Projetos de Automação</b>		
 
-Back		https://bbce0256.visualstudio.com/novos-negocios/_git/bbce-integration-test		
-Front		https://bbce0256.visualstudio.com/novos-negocios/_git/ehub-web		
+<h6>BACKEND</h6>  https://bbce0256.visualstudio.com/novos-negocios/_git/bbce-integration-test
+
+<h6>FRONTEND</h6> https://bbce0256.visualstudio.com/novos-negocios/_git/ehub-web		
 
 <b>Instalações</b>
 
