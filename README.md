@@ -6,17 +6,17 @@
 Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo todas as tecnologias, informações e passo a passo necessários.
 
 
-- [x] Tecnologias Utilizadas
-- [x] Projetos de Automação
-- [x] Instalações
-- [x] Permissões de Acesso
-- [x] Informações Úteis
+1 - [x] Tecnologias Utilizadas
+2 - [x] Projetos de Automação
+3 - [x] Instalações
+4 - [x] Permissões de Acesso
+5 - [x] Informações Úteis
 
 
 
 
 --------------------------------------------------------------------
-<b>Tecnologias Utilizadas:</b>
+<h6>1</h6> <b>Tecnologias Utilizadas:</b>
 
 
 -[VSCode IDE -> FRONT](https://code.visualstudio.com/Download)			
