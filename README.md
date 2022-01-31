@@ -1,6 +1,18 @@
 <h1>ONBOARDING</h1>
 
-<b>Tecnologias utilizadas:</b>
+<h6>OVERVIEW:</h6>
+
+Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo todas as tecnologias, informações e passo a passo necessários.
+
+
+- [x] Tecnologias Utilizadas
+- [x] Projetos de Automação
+- [x] Instalações
+- [x] Permissões de Acesso
+- [x] Informações Úteis
+
+
+<b>Tecnologias Utilizadas:</b>
 
 
 -[VSCode IDE -> FRONT](https://code.visualstudio.com/Download)			
