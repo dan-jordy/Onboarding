@@ -62,13 +62,13 @@ npm run cypress:run
 
 -[Ehub]		-> Analista de QA	
 
--[Azure]	  -> Jacometi		
+-[Azure]	-> Jacometi		
 
 -[E-mail]	-> Suporte da Empresa	
 
--[VPN]		  -> Suporte da Empresa	
+-[VPN]		-> Suporte da Empresa	
 
--[Discord]        -> Suporte da BBCE
+-[Discord]      -> Suporte da BBCE
 				
 <b>Lista de informacoes uteis</b>			
 
