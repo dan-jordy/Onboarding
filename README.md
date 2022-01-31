@@ -60,10 +60,14 @@ npm run cypress:run
 				
 <b>Permição de acesso -> Responsável</B>	
 
--[Ehub]		-> Analista de QA		
+-[Ehub]		-> Analista de QA	
+
 -[Azure]	  -> Jacometi		
--[E-mail]	-> Suporte da Empresa		
--[VPN]		  -> Suporte da Empresa		
+
+-[E-mail]	-> Suporte da Empresa	
+
+-[VPN]		  -> Suporte da Empresa	
+
 -[Discord]        -> Suporte da BBCE
 				
 <b>Lista de informacoes uteis</b>			
