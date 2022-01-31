@@ -1,6 +1,6 @@
 <h1>ONBOARDING</h1>
 
-##### Tecnologias utilizadas:
+<b>Tecnologias utilizadas:</b>
 
 
 -[VSCode IDE -> FRONT](https://code.visualstudio.com/Download)			
@@ -21,14 +21,12 @@
 
 -[IntelliJ IDE -> BACK](https://www.jetbrains.com/idea/download/other.html)
 
-#####Projetos de Automação		
+<b>Projetos de Automação</b>		
 
 Back		https://bbce0256.visualstudio.com/novos-negocios/_git/bbce-integration-test		
 Front		https://bbce0256.visualstudio.com/novos-negocios/_git/ehub-web		
 
-#####Instalações
-
-*FRONTEND*
+<b>Instalações</b>
 
 # Projeto de Testes E2E BBCE 
 
@@ -60,7 +58,7 @@ npm run cypress:run
 
 
 				
-#####Permição de acesso -> Responsável		
+<b>Permição de acesso -> Responsável</B>	
 
 -[Ehub]		-> Analista de QA		
 -[Azure]	  -> Jacometi		
@@ -68,7 +66,7 @@ npm run cypress:run
 -[VPN]		  -> Suporte da Empresa		
 -[Discord]        -> Suporte da BBCE
 				
-#####Lista de informacoes uteis				
+<b>Lista de informacoes uteis</b>			
 
 -[Arquitetura Ehub](https://web.microsoftstream.com/video/f714b317-408e-4563-afdf-a93dc8d0f4f5?list=trending		
 
