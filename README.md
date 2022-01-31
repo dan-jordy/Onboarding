@@ -2,6 +2,7 @@
 
 <h6>OVERVIEW:</h6>
 
+
 Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo todas as tecnologias, informações e passo a passo necessários.
 
 
@@ -10,6 +11,9 @@ Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo to
 - [x] Instalações
 - [x] Permissões de Acesso
 - [x] Informações Úteis
+
+
+
 
 
 <b>Tecnologias Utilizadas:</b>
