@@ -68,7 +68,7 @@ npm run cypress:run
 				
 <b>Lista de informacoes uteis</b>			
 
--[Arquitetura Ehub](https://web.microsoftstream.com/video/f714b317-408e-4563-afdf-a93dc8d0f4f5?list=trending		
+-[Arquitetura E-HUB](https://web.microsoftstream.com/video/f714b317-408e-4563-afdf-a93dc8d0f4f5?list=trending)		
 
 -[BDD](https://bbce0256.visualstudio.com/novos-negocios/_wiki/wikis/E-HUB.wiki/17/BDD-e-hub)
 
