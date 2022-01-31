@@ -16,7 +16,7 @@ Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo to
 
 
 --------------------------------------------------------------------
-<h6>1</h6> <b>Tecnologias Utilizadas:</b>
+<h4>1</h4> <b>Tecnologias Utilizadas:</b>
 
 
 -[VSCode IDE -> FRONT](https://code.visualstudio.com/Download)			
@@ -37,7 +37,7 @@ Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo to
 
 -[IntelliJ IDE -> BACK](https://www.jetbrains.com/idea/download/other.html)
 ---------------------------------------------------------------------
-<b>Projetos de Automação</b>		
+<h4>2</h4> <b>Projetos de Automação</b>		
 
 <h6>BACKEND</h6>  https://bbce0256.visualstudio.com/novos-negocios/_git/bbce-integration-test
 
@@ -45,7 +45,7 @@ Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo to
 
 ---------------------------------------------------------------------
 
-<b>Instalações</b>
+<h4>3</h4><b>Instalações</b>
 
 # Projeto de Testes E2E BBCE 
 
@@ -76,7 +76,7 @@ npm run cypress:run
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<b>Permições de Acesso -> Responsável</B>	
+<h4>4</h4><b>Permições de Acesso -> Responsável</B>	
 
 -[Ehub]		-> Analista de QA	
 
@@ -88,7 +88,7 @@ npm run cypress:run
 
 -[Discord]      -> Suporte da BBCE
 ------------------------------------------------------------------				
-<b>Lista de informacoes uteis</b>			
+<h4>5</h4><b>Lista de informacoes uteis</b>			
 
 -[Arquitetura E-HUB](https://web.microsoftstream.com/video/f714b317-408e-4563-afdf-a93dc8d0f4f5?list=trending)		
 
