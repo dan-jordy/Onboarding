@@ -16,6 +16,8 @@ Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo to
 
 
 --------------------------------------------------------------------
+
+
 <h4>1</h4> <b>Tecnologias Utilizadas:</b>
 
 
@@ -38,12 +40,18 @@ Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo to
 -[IntelliJ IDE - > BACK](https://www.jetbrains.com/idea/download/other.html)
 
 
+
+
 ---------------------------------------------------------------------
+
+
 <h4>2</h4> <b>Projetos de Automação</b>		
 
 <h6>BACKEND</h6>  https://bbce0256.visualstudio.com/novos-negocios/_git/bbce-integration-test
 
 <h6>FRONTEND</h6> https://bbce0256.visualstudio.com/novos-negocios/_git/ehub-web
+
+
 
 ---------------------------------------------------------------------
 
@@ -75,7 +83,11 @@ npm run open
 **5** - Para rodar o teste em Headless mode digite o comando:
 npm run cypress:run
 
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 <h4>4</h4><b>Permições de Acesso -> Responsável</B>	
