@@ -43,6 +43,8 @@ Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo to
 
 <h6>FRONTEND</h6> https://bbce0256.visualstudio.com/novos-negocios/_git/ehub-web		
 
+
+
 <b>Instalações</b>
 
 # Projeto de Testes E2E BBCE 
