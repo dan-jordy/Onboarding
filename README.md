@@ -15,7 +15,7 @@ Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo to
 
 
 
-
+--------------------------------------------------------------------
 <b>Tecnologias Utilizadas:</b>
 
 
@@ -36,14 +36,14 @@ Este Documento tem como proposito auxiliar no processo de OnBoarding reunindo to
 -[Maven](https://maven.apache.org/download.cgi)
 
 -[IntelliJ IDE -> BACK](https://www.jetbrains.com/idea/download/other.html)
-
+---------------------------------------------------------------------
 <b>Projetos de Automação</b>		
 
 <h6>BACKEND</h6>  https://bbce0256.visualstudio.com/novos-negocios/_git/bbce-integration-test
 
-<h6>FRONTEND</h6> https://bbce0256.visualstudio.com/novos-negocios/_git/ehub-web		
+<h6>FRONTEND</h6> https://bbce0256.visualstudio.com/novos-negocios/_git/ehub-web
 
-
+---------------------------------------------------------------------
 
 <b>Instalações</b>
 
@@ -76,8 +76,7 @@ npm run cypress:run
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-				
-<b>Permição de acesso -> Responsável</B>	
+<b>Permições de Acesso -> Responsável</B>	
 
 -[Ehub]		-> Analista de QA	
 
@@ -88,7 +87,7 @@ npm run cypress:run
 -[VPN]		-> Suporte da Empresa	
 
 -[Discord]      -> Suporte da BBCE
-				
+------------------------------------------------------------------				
 <b>Lista de informacoes uteis</b>			
 
 -[Arquitetura E-HUB](https://web.microsoftstream.com/video/f714b317-408e-4563-afdf-a93dc8d0f4f5?list=trending)		
