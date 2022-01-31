@@ -7,11 +7,11 @@
 
 -[Node.JS](https://nodejs.org/pt-br/download/)
 
--[Cypress](Instalar a partir do Node.JS através do terminal, instalar as dependências "npm install")
+-[Cypress](https://www.cypress.io/)
 
 -[Git](git-scm.com)
 
--[Discord](Solicitar link para acessar grupo BBCE)			
+-[Discord](https://discord.com/)			
 
 -[Postman](https://www.postman.com/downloads/)		
 
@@ -66,9 +66,18 @@ npm run cypress:run
 -[Azure]	  -> Jacometi		
 -[E-mail]	-> Suporte da Empresa		
 -[VPN]		  -> Suporte da Empresa		
+-[Discord]        -> Suporte da BBCE
 				
 #####Lista de informacoes uteis				
 
 -[Arquitetura Ehub](https://web.microsoftstream.com/video/f714b317-408e-4563-afdf-a93dc8d0f4f5?list=trending		
 
--[BDD] (https://bbce0256.visualstudio.com/novos-negocios/_wiki/wikis/E-HUB.wiki/17/BDD-e-hub)
+-[BDD](https://bbce0256.visualstudio.com/novos-negocios/_wiki/wikis/E-HUB.wiki/17/BDD-e-hub)
+
+-[Link Acesso E-HUB(https://ehub.qa.bbce.tech/)
+
+-[Tutoriais do Wiki (azure)](https://bbce0256.visualstudio.com/novos-negocios/_wiki/wikis/E-HUB.wiki/424/Documentos-QA)
+
+-[Ambiente Dev](https://ehub.dev.bbce.tech/)
+
+-[Arquitetura do e-hub](https://web.microsoftstream.com/video/f714b317-408e-4563-afdf-a93dc8d0f4f5?list=trending)
